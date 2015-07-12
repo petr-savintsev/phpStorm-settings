@@ -1,0 +1,16 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="483b5250-f4e5-4739-91bc-3923c9871905" name="lkapital.localhost" url="http://lkapital.localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="6ecf3023-4072-4749-b17e-0432aeb85070" name="lkapital.mcdir.ru" url="http://lkapital.mcdir.ru">
+        <fileTransfer host="a19598.ftp.mchost.ru" port="21" rootFolder="/httpdocs" password="dfcbdfc0dfc2df99dfc1dfc8dfd3dfc6dfc0dfd3" username="a19598_lkapital">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
