@@ -11,6 +11,9 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="b966f1aa-155b-46f7-806f-d005b7f4783d" name="spv.no-ip.biz" url="http://spv.no-ip.biz:1080">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
