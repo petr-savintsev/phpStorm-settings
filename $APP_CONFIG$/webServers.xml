@@ -14,6 +14,9 @@
       <webServer id="b966f1aa-155b-46f7-806f-d005b7f4783d" name="spv.no-ip.biz" url="http://spv.no-ip.biz:1080">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="3da064a6-73da-4898-b92c-d8ae53e2ebaa" name="lkaptial" url="http://lkapital">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
