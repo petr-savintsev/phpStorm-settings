@@ -7,9 +7,15 @@
       <webServer id="6ecf3023-4072-4749-b17e-0432aeb85070" name="lkapital.mcdir.ru" url="http://lkapital.mcdir.ru">
         <fileTransfer host="a19598.ftp.mchost.ru" port="21" rootFolder="/httpdocs" password="dfcbdfc0dfc2df99dfc1dfc8dfd3dfc6dfc0dfd3" username="a19598_lkapital">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
         </fileTransfer>
+      </webServer>
+      <webServer id="b966f1aa-155b-46f7-806f-d005b7f4783d" name="spv.no-ip.biz" url="http://spv.no-ip.biz:1080">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="3da064a6-73da-4898-b92c-d8ae53e2ebaa" name="lkaptial" url="http://lkapital">
+        <fileTransfer accessType="LOCAL" />
       </webServer>
     </option>
   </component>
