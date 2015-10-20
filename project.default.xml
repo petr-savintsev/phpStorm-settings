@@ -4,7 +4,6 @@
       <component name="NamedScopeManager">
         <order />
       </component>
-      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
         <OptionsSetting value="true" id="Remove" />
@@ -19,14 +18,6 @@
         <modules />
       </component>
       <component name="ProjectRootManager" version="2" />
-      <component name="PropertiesComponent">
-        <property name="last_opened_file_path" value="C:/OpenServer/domains/lkapital" />
-        <property name="options.lastSelected" value="web.server" />
-        <property name="options.splitter.main.proportions" value="0.3" />
-        <property name="options.splitter.details.proportions" value="0.2" />
-        <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
-      </component>
     </defaultProject>
   </component>
 </application>
